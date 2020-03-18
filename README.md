@@ -5,3 +5,6 @@ but i am learning some amazing new things!
 
 with searching comes loss
 and the presence of absence
+
+no available space\n
+look to the cloud
